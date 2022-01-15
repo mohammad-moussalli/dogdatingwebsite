@@ -1,3 +1,8 @@
 .bluecontainer{
     background-color: rgb(103,75,255);
 }
+
+.center {
+    padding: 70px 0;
+    text-align: center;
+  }
