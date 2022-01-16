@@ -108,3 +108,15 @@
   .footerpad{
       padding-bottom:5%
   }
+
+  .websiteMargin {
+    margin: 20px;}
+
+
+.paddingBlock {
+    padding-block: 100px;
+}
+
+.mainContainer{
+    padding-inline: 100px;
+    max-height: 700px}
