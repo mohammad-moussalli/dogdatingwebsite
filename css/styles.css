@@ -51,3 +51,40 @@
     width:7%;
     height:7%;
 }
+
+.body {
+    background-repeat: no-repeat;
+    background-image: url('img_smallflower.jpg'); 
+  }
+
+  .inctextsize450 {
+    font-size:450%;
+  }
+
+  .inctextsize200 {
+    font-size:200%;
+  }
+  
+  .stretchtext{
+      font-stretch:extra-expanded;
+  }
+
+  .pad{
+      padding:10%;
+  }
+
+  .leftpad{
+      padding-left:60%;
+  }
+
+  .rightpad{
+      padding-right:60%
+  }
+
+  .toppad{
+      padding-top:25%;
+  }
+
+  .bottompad{
+      padding-bottom:25%;
+  }
