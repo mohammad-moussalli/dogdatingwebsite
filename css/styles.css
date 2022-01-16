@@ -11,3 +11,25 @@
     color: rgb(103,75,255);
 }
 
+
+.resize{
+    width: 50%;
+    height: 50%;
+    object-position: 50% 50%;
+}
+
+.rotate{
+    transform: rotate(25deg);
+}
+
+.moveleft{
+    padding-left: 12.5%;
+}
+
+.moveright{
+    padding-right: 25%;
+}
+
+.li {
+    margin-left: 15%;
+}
