@@ -70,7 +70,7 @@
   }
 
   .pad{
-      padding:10%;
+      padding:2%;
   }
 
   .leftpad{
@@ -85,6 +85,25 @@
       padding-top:25%;
   }
 
+
   .bottompad{
       padding-bottom:25%;
+  }
+
+  .buttonsize {
+      font-size: 200%;}
+  .iconpadding{
+      padding:2.5%  
+  }
+
+  .buttonpadding{
+      padding:5%
+  }
+
+  .moveMyApp{
+      padding-left:7.5%;
+  }
+
+  .footerpad{
+      padding-bottom:5%
   }
