@@ -18,9 +18,10 @@
     object-position: 50% 50%;
 }
 
+@media (min-width: 922px){
 .rotate{
     transform: rotate(25deg);
-}
+}}
 
 .moveleft{
     padding-left: 12.5%;
