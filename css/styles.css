@@ -120,3 +120,11 @@
 .mainContainer{
     padding-inline: 100px;
     max-height: 700px}
+    
+.cropped {
+    overflow: hidden;
+}
+
+.cropped img {
+    margin: 0px 0px -380px 0px;
+}
