@@ -86,13 +86,14 @@
       padding-top:25%;
   }
 
-
   .bottompad{
       padding-bottom:25%;
   }
 
   .buttonsize {
-      font-size: 200%;}
+      font-size: 200%;
+  }
+
   .iconpadding{
       padding:2.5%  
   }
@@ -110,7 +111,8 @@
   }
 
   .websiteMargin {
-    margin: 20px;}
+    margin: 20px;
+}
 
 
 .paddingBlock {
