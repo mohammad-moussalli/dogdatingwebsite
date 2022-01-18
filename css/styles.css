@@ -11,13 +11,6 @@
     color: rgb(103,75,255);
 }
 
-
-.resize{
-    width: 60%;
-    height: 50%;
-    object-position: 50% 50%;
-}
-
 .moveleft{
     padding-left: 12.5%;
 }
@@ -86,22 +79,32 @@
 }
 
 .mainContainer{
-    padding-inline: 200px;
+    padding-inline: 25%;
     }
     
-.cropped {
-    overflow: hidden;
-}
-
-.cropped img {
-    margin: 0px 0px -225px 0px;
-}
 
 
 @media (min-width: 922px){
+
     .rotate{
         transform: rotate(25deg);
-    }}
+    }
+
+    .resize{
+        width: 60%;
+        height: 50%;
+        object-position: 50% 50%;
+    }
+    
+    .cropped {
+        overflow: hidden;
+    }
+    
+    .cropped img {
+        margin: 0px 0px -225px 0px;
+    }
+    
+}
 
 .titleFont{
     font-family: 'Poppins', sans-serif;
