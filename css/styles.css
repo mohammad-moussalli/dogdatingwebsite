@@ -78,6 +78,12 @@
 
 .mainContainer{
     padding-inline: 10%;
+    padding-block: 3%;
+}
+
+.footerContainer{
+    padding-inline: 10%;
+    padding-block: 5%;
 }
 
 .titleFont{
