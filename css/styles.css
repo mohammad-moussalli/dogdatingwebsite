@@ -116,6 +116,14 @@
     height: 300px;
 }
 
+.buttonPadding{
+    padding-right: 15%;
+}
+
+.imagePadding{
+    padding-right: 2%
+}
+
 @media (min-width: 922px){
 
     .rotate{
