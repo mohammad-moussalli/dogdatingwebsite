@@ -130,3 +130,28 @@
     .rotate{
         transform: rotate(25deg);
     }}
+
+.titleFont{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+
+.bodyFont{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.bodyFontBold{
+    font-family: 'Poppins', sans-serif;
+    font-weight:500;
+}
+
+.bodyFontItalic{
+    font-family: 'Poppins', sans-serif;
+    font-weight:400;
+    font-style: italic;
+}
+
+.navbarFont{
+    font-family: 'Ubuntu', sans-serif;
+}
