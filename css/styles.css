@@ -2,7 +2,7 @@
     background-color: rgb(103,75,255);
 }
 
-.center {
+.center{
     padding: 70px 0;
     text-align: center;
   }
@@ -19,15 +19,14 @@
     padding-right: 25%;
 }
 
-.li {
+.li{
     margin-left: 15%;
 }
 
 .center_text{
-
     text-align: center;
-    
-    }
+}
+
 .black_text{
     color: #1f1f1f
 }
@@ -35,44 +34,43 @@
 .img15 {
     width: 15%;
     height: 15%;
-   }
+}
+
 .img7{
     width:7%;
     height:7%;
 }
 
-  .inctextsize400 {
-    font-size:400%;
-  }
+.inctextsize400 {
+    font-size:300%;
+}
   
-  .stretchtext{
-      font-stretch:extra-expanded;
-  }
+.stretchtext{
+    font-stretch:extra-expanded;
+}
 
-  .pad{
-      padding-top:5%;
-      padding-left: 15%;
-      padding-right: 15%;
-      padding-bottom: 5%;
-  }
+.pad{
+    padding-top:5%;
+     padding-left: 15%;
+     padding-right: 15%;
+     padding-bottom: 5%;
+}
 
-  .toppad{
-      padding-top:25%;
-  }
+.toppad{
+    padding-top:25%;
+}
 
-  .bottompad{
-      padding-bottom:25%;
-  }
+.bottompad{
+    padding-bottom:25%;
+}
 
-  .iconpadding{
-      padding:2.5%  
-  }
+.iconpadding{
+    padding:2.5%  
+}
 
-
-  .footerpad{
-      padding-bottom:5%
-  }
-
+.footerpad{
+    padding-bottom:5%
+}
 
 .paddingBlock {
     padding-block: 100px;
@@ -80,33 +78,6 @@
 
 .mainContainer{
     padding-inline: 15%;
-    }
-    
-
-
-@media (min-width: 922px){
-
-    .rotate{
-        transform: rotate(25deg);
-    }
-
-    .resize{
-        width: 250px;
-        height: 250px;
-    }
-
-    .cropped {
-        overflow: hidden;
-    }
-    
-    .cropped img {
-        margin: 0px 0px -225px 0px;
-    }
-
-    .mainContainer{
-        padding-inline: 25%;
-        }
-    
 }
 
 .titleFont{
@@ -132,4 +103,29 @@
 
 .navbarFont{
     font-family: 'Ubuntu', sans-serif;
+}
+
+@media (min-width: 922px){
+
+    .rotate{
+        transform: rotate(25deg);
+    }
+
+    .resize{
+        width: 250px;
+        height: 250px;
+    }
+
+    .cropped {
+        overflow: hidden;
+    }
+    
+    .cropped img {
+        margin: 0px 0px -225px 0px;
+    }
+
+    .mainContainer{
+        padding-inline: 25%;
+    }
+    
 }
