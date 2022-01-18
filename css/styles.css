@@ -79,7 +79,7 @@
 }
 
 .mainContainer{
-    padding-inline: 25%;
+    padding-inline: 15%;
     }
     
 
@@ -91,11 +91,10 @@
     }
 
     .resize{
-        width: 60%;
-        height: 50%;
-        object-position: 50% 50%;
+        width: 250px;
+        height: 250px;
     }
-    
+
     .cropped {
         overflow: hidden;
     }
@@ -103,6 +102,10 @@
     .cropped img {
         margin: 0px 0px -225px 0px;
     }
+
+    .mainContainer{
+        padding-inline: 25%;
+        }
     
 }
 
