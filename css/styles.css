@@ -112,8 +112,8 @@
     height: 300px;
 }
 
-.buttonPadding{
-    padding-right: 15%;
+.buttonMargin{
+    margin-right: 15px;
 }
 
 .imagePadding{
