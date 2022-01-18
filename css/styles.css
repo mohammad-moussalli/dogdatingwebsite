@@ -105,6 +105,11 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+.resize{
+    width: 250px;
+    height: 250px;
+}
+
 @media (min-width: 922px){
 
     .rotate{
